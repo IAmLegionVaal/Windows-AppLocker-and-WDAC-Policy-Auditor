@@ -1,0 +1,1 @@
+# -Windows-AppLocker-and-WDAC-Policy-Auditor
